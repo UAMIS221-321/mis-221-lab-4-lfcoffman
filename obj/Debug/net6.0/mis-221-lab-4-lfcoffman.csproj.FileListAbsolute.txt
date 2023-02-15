@@ -1,0 +1,15 @@
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\bin\Debug\net6.0\mis-221-lab-4-lfcoffman.exe
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\bin\Debug\net6.0\mis-221-lab-4-lfcoffman.deps.json
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\bin\Debug\net6.0\mis-221-lab-4-lfcoffman.runtimeconfig.json
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\bin\Debug\net6.0\mis-221-lab-4-lfcoffman.dll
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\bin\Debug\net6.0\mis-221-lab-4-lfcoffman.pdb
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\obj\Debug\net6.0\mis-221-lab-4-lfcoffman.csproj.AssemblyReference.cache
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\obj\Debug\net6.0\mis-221-lab-4-lfcoffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\obj\Debug\net6.0\mis-221-lab-4-lfcoffman.AssemblyInfoInputs.cache
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\obj\Debug\net6.0\mis-221-lab-4-lfcoffman.AssemblyInfo.cs
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\obj\Debug\net6.0\mis-221-lab-4-lfcoffman.csproj.CoreCompileInputs.cache
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\obj\Debug\net6.0\mis-221-lab-4-lfcoffman.dll
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\obj\Debug\net6.0\refint\mis-221-lab-4-lfcoffman.dll
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\obj\Debug\net6.0\mis-221-lab-4-lfcoffman.pdb
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\obj\Debug\net6.0\mis-221-lab-4-lfcoffman.genruntimeconfig.cache
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-lfcoffman\obj\Debug\net6.0\ref\mis-221-lab-4-lfcoffman.dll
